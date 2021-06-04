@@ -1,4 +1,4 @@
 # ChangePoint
-##Python Script for detecting change point
+## Python Script for detecting change point
 
 
